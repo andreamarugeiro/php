@@ -1,2 +1,3 @@
 testando 
-editei esse arquivo
+editei esse arquivo antes
+teste de conflito
