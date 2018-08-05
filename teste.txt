@@ -1,3 +1,7 @@
 testando 
+
 editei esse arquivo
 Vou colocar coisas aqui
+editei esse arquivo antes
+teste de conflito
+
